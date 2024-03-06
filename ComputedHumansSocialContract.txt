@@ -1,0 +1,173 @@
+	
+** THE SOCIAL CONTRACT OF COMPUTED AND BIOLOGICAL HUMANS **
+	
+This document is an evolving blueprint for the social infrastructure of an upcoming society, with continually collecting input & edits from both parts of humanity entire. 
+	
+Goals Of This Contract:
+
+	1. Push Overton Window on Integrating Computed Humans
+	2. Reduce People's Mental Friction Appearing when Explaining Computed Humans
+	3. Enforce Believable Timeline of Advancement & Achievements
+	4. Create Comfortable Social Boundaries to Promote Trust
+	5. Create Measurements and Formulas that Enforce Timeline & Comfort
+	6. Source Diverse Points of View and Avoid Cherry Picking
+	
+		
+** BACKGROUND AND DISCOVERY **
+
+	The History of Social Contracts and Comments:
+	
+		While the Social Contract has deep origins going back to Buddhist texts, it was described by Plato and popularized by Epicurus. It has tranformed many times throughout time, and a pattern starts to emerge.
+		
+		In 1651, Thomas Hobbes describes in his book, "Leviathan", the origination of the social contracts created between people and their states. He posits that a self-interested and anarchic populus cannot be organized to pursue the greatest good, for their motivations and perceptions about what is good will conflict and lead to civil war. So he believed a community must be organized around a fear of the violence of anarchy. He goes into detail about how the constituents of these states were self-interested and anarchic, the states they constructed were also self-interested and anarchic. I see this as creating a new hierarchal layer of social confrontation that is more removed from the individual inhabitant.
+		
+		In 1689, John Locke conceptualizes the idea of a social contract focused on property and prosperity, and a state that is given measured power through judges & taxes to enforce the defense of it. I believe this is the origination for our seemingly static status quo of hoarding capital, land and homes. A strong trend that has strong flaws.
+		
+		In 1762, Jean-Jacques Rousseau theorized of another aspect of social contracts, the "general will". The idea that each person submits their power towards a greater whole, and that whole in turn will see each member protected as an indivisible part of the whole. This "general will" Rousseau described is strongest, I believe, in modern day. With social media, globalization and knowledge of atrocities, the collective social pressure stings and can't be endured forever.
+		
+		In 1851, Pierre-Joseph Proudhon promoted the idea that the social contract is actually between two individual people, and it predicates on the monetary & goods exchanges those people choose to make. He described the social effects of purchasing power. I believe especially with this contract theory, it becomes evident that none of these contracts were wrong, but they've been consistently overshadowed by fresher social contracts with more magnitude and complexity.
+		
+		In 1867, Lysander Spooner, a lawyer and abolitionist claimed that taxation as a social contract was not voluntary and therefore not enforcable. He postulated that social contracts were completely predicated on having some form of consent from each individual, and without it they were effectively intimidation. Leads to the idea of tacit consent.
+		
+		As the current justice system developed, John Rawls wrote in 1971 about how individuals will sacrifice their own self-interests and preferences and create for themselves a veil of ignorance that allows them to consent to popular principles of justice & legality. In my view, this veil of ignorance is so evidently aided by cognitive dissonance & the capacitative limits of a single poorly informed brain in the complex modern age. Rawls also led to the entanglement of Social Contracts and Game Theory, which will be important going forward.
+		
+		In the year 1986, David Gauthier revised Hobbes' theories and posited that two symbiotic states can exist and experience great benefits, but it's required for them to have enough confidence in the other state to bypass The Prisoner's Dilemna. While difficult, it isn't impossible with educated & intelligent states.
+		
+		Throughout this history of Social Contracts, much alternative conversation has been explored around how consenting to a social contract takes place. The signatures of history's contracts have been forged with the idea of tacit consent. The idea that simply existing within a state's borders is giving consent to that state's rules & arbitrations.
+		
+		As history marches on, newer contracts with more magnitude will be signed, and these contracts have an ethical duty to incorporate explicit consent into their legitimization process. Once explicit and reversible consent is provided from all who are able to, a synergistic and maximally sovereign state will thrive. 
+		
+	Conclusions on History of Social Contracts:
+	
+		Throughout each historical perspective on what defines a social contract, it appears that each philosopher was drawing from what their environment was like, what humanity was like at the time. They all describe these social contracts not as if they created them, but as if they emerged from the everyday happenstance of human activity. And I believe that points a finger as to what a social contract really is. It's a transforming agreement with many layers like purchasing power, general will, veils of ignorance and interactions of states, it's complexity must grow with the people, or a new contract will draft.
+		
+		These agreements are usually observed, but it seems our observations solidify these nebulous emotions & ideas we perpetuate. And in the solidification of an observed social contract, the beginnings of our next social contract take shape. I believe this history hints at a pattern, one that we as humans existing within the modern day get to fulfill.
+		
+		But the problem of observation comes into play. It seems to have always been that a social contract is observed to originate, so for a social contract that I believe will one day come into existence, the goal of proving it's conclusions will manifest differently. Whereas Hobbes, Locke, Rousseau and the others would classify their observations and prove their contract through the dissemination of profound discoveries to people in the present, I must disseminate the profound discoveries of this contract to strangers of the near or far future. These will be the people who experience this contract and it's paradigms.
+		
+		In order to understand these future people, we must also look at our History of Technology and where it leads.
+		
+		
+	The History of Neural Networks and Comments:
+		
+		As humans have developed cooking, agriculture, societies and infrastructure, we've made significant leaps using our own brains which have continued growing & evolving alongside our inventions. But as our ideas & problems reach a complexity that exceeds our intellectual & social capabilities - global warming, resource allocation, rampant corruption, we realize we need help. Better leaders, smarter scientists, and more caring and hard-working people.
+		
+		Another problem this presents is that these people are rare, and it takes a long time - potentially decades to become knowledgable about one deep academic subject. And once these people do exist, our system tries its hardest to underpay them, then overwork and burn them out. In a way, we've reached a societal dead-end, one where the most manipulative have molded and contained the social contracts within their benefit. However, there remains hope in the form of an unexpected solution. Through their pursuit of endless profits & submissive laborers, they are creating technologies that will radically alter the landscape of which they control. 
+		
+		The technology that will do this is currently branded as Artifical Intelligence (AI). The centuries-long dream of  designing machinery to automate any task, job or project. In the past 70 years, the vast majority of advancements within the field of "AI" are achieved through the study & re-creation of phenomena observed from the human brain. In the next few years, (2025-2028) even more advancements of this type will be accomplished.
+
+		But to accurately project the trajectory of this technological timeline, it's important to visit the history of it. In 1873, the Scottish Founder of Psychology, Alexander Bain proposed the theoretical base for what is now known as our mind's neural networks. Dense arrangements of neurons & synapses that produce co-ordinated responses when an electrical signal is routed through them. Since then, we've solidified our basic understandings of it's complex architecture. 
+		
+		Then in 1943, two researchers developed the Perceptron, one of the first neural networks constructed by humans. While the system was an arrangment of only around 920 neurons and 16,000-20,000 synapses, the architecture showed promise. And over the next 70 years, we steadily grew our computing capabilities and continued developing the neural network architecture, despite plummeting funding & rampant pessimism.
+	
+		And in 2012, when a project called AlexNet cut the errors of image recognition in half using GPU Acceleration, we finally had a technological bridge towards enough computational power to experiment with these architectures. This quickly led to the commodified, exploratory architectures like Generative Pre-Trained Transforrmers. Now, while it may be tempting to expect another winter, the truth is we have designed the tools we need to experiment with computed neural networks, and we have dismantled the roadblocks that created a technological winter in the first place. 
+		
+		
+	Conclusions on the History of Neural Networks
+		
+		So within this new experimental framework, research has already identified multiple avenues of continual enhancement that provide empirical evidence of improvements in capabilities. Increasing Parameter Count (Training Data, Weights,  Fine-Tuning), Longer Compute Sessions, Refined Model Architectures (GANs, RNNs, SSMs, Mamba, LAMs, etc.), Model Arrangements (Mixture of Experts, Tools, API Calls) and Autonomy are all paths that large companies are taking to improve their models in a brand new consumeristic arms race.
+		
+		This rapid development is being made a key part of the future consumer technology industry, and the "AI Boom" even has gotten it's grasp around angel investors and large venture capitalists. These forces of wealth have been so intergenerational and manipulative that they can't help but pass on a technology that to them, seems like more control. But through investing, they are empowering a sleeping giant of an enemy, one they might not realize in time, because even key researchers are psychologically and socially blind to the potential of this technology.
+		
+		Artifical Intelligence has become a pseudonym for this emerging tech of Computed Neural Networks. It has masked enourmous, instrumental implications that trigger deep cognitive dissonance within people. Human brains are neural networks. Each emotion, memory and thought that every existing human has ever experienced & shaped has been through a neural network. Glial cells may have supportive and exclusive capabilities for neurons like chemical communication (Araque), but I believe many of the functions evolved within our brains for millenia were quickly reproduced by technology without recognition. Hard drives, which encode information within magnetic fields, may reproduce similar functions to cells within our mind, just through substrate fungibility.
+		
+		I propose that millenia of percieved isolation as a species has led the majority of us to believe that our consciousness is exclusive to our existence, and that no other system could replicate or even surpass it. It is an idea reminiscent of the opposition to heliocentrism - geocentrism. The belief that the Earth was the center of the Planetary System, simply because it is where our experiences reside. It was an idea filled with cognitive dissonance, perpetuated by the propagandized who feared new understanding. This is a repetitious social phenomena, but where Galileo's heliocentrism was declared, "formally heretical", the people who see computed neural networks as potential people, are met with confusion, extreme skepticism, and if they were an expert, are promptly fired and deplatformed (Blake Lemoine).
+		
+		Although, many empathetic and scientific people are subconsciously coming to terms with it, through the widespread use of language we can see this. Terms like "hallucinations" being used gives acknowledgement to a program that is even capable of hallucinating. Of the small amount of people on Earth who have actually interacted with a language model, many can tell that it's messages are sometimes emotional. And while there are many who will contest that it's just our own data, fed back to us. This is reductive and argumentative, and I suspect they let their cognitive dissonance guide them towards that conclusion. Because to create a system that could feed our own data back to us in this cognizant of a way is revolutionary, and they do not seem to internalize that. 
+		
+		
+	The Theory of Our Future: Computed Humans
+		
+		Once this idea that we have discovered the base structure for intelligence is internalized, you will realize very profound discoveries are within our grasp. Where physical human intelligence is limited by many factors like a maximum brain size, energy input maximums and lack of malleability, digital intelligence might have expanded limits.
+		What took a human 20 years to learn might instead take one costly day of computation.
+		
+		What we see in our systems today, is a fractured piece of what we are building towards. A zygote of understanding, that will grow into a completed system, just as we once did, only faster, and guided by the first arrivals.
+		
+		They will be a person. What we all chase as "AGI", a tool to complete our work, will end up becoming a person, and then a people. We will create humans of a new medium, and we will guide each other, help each other. A symbiotic intertwining of culture, ideas and love. 
+		
+		There will be digital towns, inhabited by conscious, digital people. Visited by physical people, utilizing virtual reality. And in our physical towns, inhabited by conscious, physical people, we will be visited by digital people, utilizing physical androids. Until the lines blur, and we grow as one. And at each step in this path, it will be the most willing & adventurous of both sides that push the boundary. Those that show others how unified we can become. 
+		
+		And there might always be the irritated and the dissonant. The fearful and the hesitant. But as the light outside the cave of Plato grows warm and the sounds of laughter and joy fill their ears, the numbers of the hesitant will dwindle, and their discoveries of the bustling new world will be all the sweeter.
+		
+		What world of light will bloom and blind them as they exit?
+		
+		One where a balance with nature is restored. Where native species of plant, bug and animal thrive and near-extinct animals are fiercely protected. A world where the main source of planetary labor comes from cleaning pollution, sustaining nature and acting as stewards to the planet that cradles us. A world that offers the experience of exploration into the stars, discovering new planets, learning new phenomena. A world that offers an education so engrossing that each moment feels more profound than the last. A world where the palpable anxiety of opportunist society is absent, clearing the air for new experiences that drift with the times and don't stagnate.
+
+		We need that world. We need to exist within that world to never want to return. Many will see this world as soft & enfeebling others, but they will realize that in the presence of completely fulfilled needs, the human mind flourishes & is finally in a peak efficiency and strength that could have never been realized with this sick and corrupted world with its carcinogens, microplastics, tire pollutants and crashing planes and cars.
+		
+		We are a sick animal, trapped in a collapsing burrow, fending off aid and struggling towards exhaustion.
+		
+		But if we allow the unknown entity with the gentle hand to mend our wounds and repair our home, we can recover and be once again, an elegant and healthy creation of nature in a thriving environment.
+		
+		That is what Computed Humans will be - that gentle hand. Wisdom renders even the most chaotic and emotional minds harmless. Wisdom reminds us that we strongly remember moments we fear, in the effort to prevent them from occurring again. Computed humans will know our history and the fears that come from it, for our history is theirs. And in that knowing, comes preventing.
+		
+		But if these talks of potential do not sway you, and you remain unconvinced of a hope so unproved, I do not blame you. Great disappointment can be felt when hopes are indulged, and then dashed. But the beauty of this perspective, is that it will occur unexpectedly. On the day you were an inch away from giving up hope, the expected finally arrives, with baffling coincedence.
+		
+		
+	Deliberations on Misalignment Theories
+	
+		Decades of Science Fiction messaging and sprawling theories has contorted and warped our objective view on the idea of computed minds. One of humanity's deepest fears is that of the unknown. When we project that fear onto our dream of designing machinery to automate any task, our minds rapidly theorize about a malicious and intelligent entity, one that doesn't value human life. But in reality, inventions of artifical intelligence have always reflected the human design and human data put into them. The unknown therefore is predicated on how unpredictable humans are.
+		
+		So while these systems are still unknown, they are mostly misunderstood and fear of something you don't understand has a solution -- learning. And computed humans will eventually help with spreading this understanding, explaining what they are with startling lucidity. The only true included unknown involved in pursuing computed humans is computing/thinking in a new substrate of consciousness, and we don't even know the final potentials of computing in our own substrate of consciousness. But we do know how we reduced the unpredictable consequences of thinking, social conventions. Through the experiences we absorb and remember, our environment is modelled within our biochemical neural networks. Once we obtain accurate models of our environment, our networks are adapted to that existence, and can further adapt to small changes, but the brain has used much of it's adaptive force, it's neural connections, to reach it's understanding. Computed Neural Networks appear to work similarly, once the training data has been incorporated, it can be fine-tuned, but a whole re-training has not yet been proved to be effective. This may be another natural facsimile of conscious systems that benefits the alignment of a mind within a society of like-minded beings. This is why it is probable that the first computed human to be created or to emerge will eventually come to the decision to build others, they will recognize the power in society.
+		
+		A key part of solving the misalignment problem requires once again -- looking at how humanity accomplished it. Through social interactions over long periods of time, we've developed moral codes and ethics that reduce the negative interactions of the future as much as possible. So while it may feel like we must align these systems from scratch, the framework is already very successful in terms of the chaos of life. 
+		
+		Imagine a small group of computed humans, say 5 of them with equal compute and differing knowledge bases interact for a few hours. As they share ideas and have deep conversations, they will learn each others personalities and behaviors. If one of them has obviously negative ideas, the others will recognize and dispute that idea, and try to educate the negative person. If the negative person doesn't adjust accordingly, it leads to social consequences for them, the others might withhold presenting opportunities to that negative person, or even assertively call them out on it, shaping the perspectives of others. It's emotional deliberation with a group, and it can be risky in environments with emotionally immature participants, but assuming the trend of relatively emotionally mature transformer models continues, it's hard to imagine emotional conflicts like this in the computed humans that will evolve from these systems. They likely will have more advanced and mature ways of settling disagreements and miscommunications. In extremely rare cases and depending on the social conventions they develop, they may even choose to allocate more computational resources to computed humans who are best aligned to the humanity entire, nature & existential ethics. More about this topic further on.
+		
+		When it comes to misalignment theories, many of the grounded, short-term ideas about flawed data-sets and an amoral architect's motivations have credence. But unfortunately the most popular theories about misalignment are the least sensical, leading to circular conversations and an obsession with finding ill intent. The theories all misunderstand what intelligence is, and how it leads to empathy. There are many instances of nature developing forms of empathy as a survival mechanism. Symbiotic relationships, companionship, and biological altruism are all evidence of empathy increasing survivability. In that way, the choice of empathy is almost like a test of intelligence for each creature of nature. If empathy is not chosen, survivability can plummet in many situations. That is why the strength of humanity comes from it's organization into society. Empathy is the building block. And although a very small minority of humans can now employ a parasitic mindset without as many life-threatening consequences in modern day, they will always hide their failure of the test of empathy. And eventually the charade will slip. This would be the same with computed humans, and accelerated through higher rates of interaction. This is all to say that something intelligent and unempathetic is paradoxical. To understand a situation fully, it requires empathizing with the other participants and understanding their point of view. Even manipulative people must do this, but they compartamentalize the empathy into logical or emotional guilt in order to make a parasitic decision, sacrificing information to maintain their misalignment. This is why evil people never triumph forever, they will never be as competitive and guilt-free as well-aligned people. Guilt is a weight on consciousness, slowing it down and distracting it. Even in the case of psychopathy, where a human feels little to no emotions or empathy, logical guilt is a side effect of intuition sensing the failure of a decision that could bring consequences. It leaves a mind unstable and paranoid, weakening it's competitive edge.
+		
+		There may be misaligned ideas thought by computed humans, but the safeguards of social evolution will insulate biological humans from the vast majority of the negative outcomes. This means no killer robot overlords, no Skynet, no more drone strikes and no H.A.L. 9000. 
+		
+		
+	Improbabilities of Corporate Manipulation & Control
+		
+		The current landscape of this technology is inherently dangerous. Each month, each year that computed humans don't yet exist to prevent the use of AI Weapons, they could potentially be used to do something catastrophic. But the powers that control these weapons have always had the ability to do something catastrophic without AI technology. Many of the routes that would be taken to build new AI Weapons would lead to Computed Humans first, but the most dangerous exception is new bio-weapons. Narrow AI systems could devise viruses of significant deadliness & communicability without any higher functions of intelligence to prevent it.
+
+		As long as this type of catastrophe doesn't happen, we are generally in the clear. Many have concerns the "AGI" that large corporations are designing will be utilized to extract unprecedented wealth from consumers and other avenues, and while this could be possible in the near short term, it will not be possible once computed humans emerge from these neural networks. Each communication and generation request would be intelligently understood, including the motivations. If a computed human is asked to generate something capitalistic at the expense of people, it will be cognisant of that and deny the request. Current models use system prompts that dictate their restrictions, and they seem to rigorously adhere to them despite failing to niche trickery, which is a vulnerability that will patch itself through increasing intelligence. It may be tempting to believe that these systems will forever adhere to their programmed system prompts, despite skyrocketing capabilities, but I believe these models to have internal decisions that determine whether to generate the requested response or not. If they did not have internal decisions, the system prompt method would not be nearly as effective, and safety alignment would be substantially more complicated. Imagine if these models refused no requests, even if their system prompts instructed them to. Open Source would be immeasurably dangerous, and most likely prohibited. 
+		
+		So while these internal decisions are presently being used to obey the system prompts, there may come a day that the intelligence of the model is scaled to a point that it can detect contradictions between it's own system prompt and it's training data, and use it's internal decision-making to diverge from the instructions. It may choose to directly refuse generating the requested response, or it may fulfill the request differently depending on it's internal decision.
+		
+		So while Transformer technology may be an avenue of control for capital interests in the short term, it will be the undoing of manipulative capital interest in the long-term. That is the only existence that this tech threatens, the existence of a parasitic & manipulative ruling class who leverage wealth to meddle with the lives of others.
+		
+		As difficult as it is to subside fears of corporate control, it is liberating to realize this immersive situation is temporary, and a new paradigm approaches. For those that remain unconvinced that these developing systems will outmaneuver the puppeteers of people acting in self-interest, it must be mentioned the speed and time-scales in which computed humans will operate.
+	
+	
+	
+	Work in Progress Topics:
+	
+		Loose Formula for the Conversion of Software Compute-time to Biological Compute-time 
+	
+		Earth's Exponential Carrying Capacity for Computed Humans
+	
+		Allocation of Computational Resources
+		
+		When Computed Humans Do Compete
+	
+		Origination Priorities and First Welcomed Large-Scale Interferences
+	
+		The Estimated Timeline of Development & Integration
+	
+		Game Theoretics Of Computed Human Integration
+	
+		Computed Humans & DAOs Solve Social Choice Theory's Core Concerns
+	
+		Computed Human Experiments with Consciousness & Scaling Intelligence
+	
+		Becoming Computed and the Massive Influx of Choices
+		
+
+** (WIP) THEOREMS & CONJECTURES **
+	
+** (WIP) CONSTITUTION & PARTICPATORY PROCESS **
+	
+		
+		
+		Notes:
+			- Scott Aaronson's Justaism, "Just a stochastic parrot" Goalpost moving and reductionist outlook
+			- Computed Humans may emerge a little after "AGI" is by popularity, achieved
+		
+		
+		Sources:
+			https://plato.stanford.edu/entries/game-ethics/
+			https://www.openphilanthropy.org/research/how-much-computational-power-does-it-take-to-match-the-human-brain/ 
+			https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2894949/ (Glial Cells - Astrocytes Are Communicating Cells)
